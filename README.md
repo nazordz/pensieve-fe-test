@@ -8,3 +8,7 @@ I've worked this project to completed my code test for pensive company.
 1. Run `yarn` to install dependencies.
 2. Configure `.env` file to fit with your environment.
 5. Run `yarn dev` to start dev server.
+
+## Login to backoffice
+- email: admin@mail.com
+- password: password
